@@ -1,0 +1,8 @@
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/src/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/src/CMakeFiles/BTP.dir
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/src/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/test/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/test/CMakeFiles/test.dir
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/test/CMakeFiles/edit_cache.dir

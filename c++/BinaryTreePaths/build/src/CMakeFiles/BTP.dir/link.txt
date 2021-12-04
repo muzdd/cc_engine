@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBTP.a  CMakeFiles/BTP.dir/BinaryTreePaths.cpp.o
+/usr/bin/ranlib libBTP.a

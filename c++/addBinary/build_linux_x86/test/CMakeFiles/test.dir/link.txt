@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/test.dir/main.cpp.o  -o test  -L/home/parallels/Desktop/LeetCode/addBinary/build_linux_x86/test/../src -Wl,-rpath,/home/parallels/Desktop/LeetCode/addBinary/build_linux_x86/test/../src ../src/libaddBinary.a 

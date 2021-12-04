@@ -1,0 +1,5 @@
+/home/parallels/Desktop/LeetCode/list_demo/build_linux_x86/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/LeetCode/list_demo/build_linux_x86/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/LeetCode/list_demo/build_linux_x86/src/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/LeetCode/list_demo/build_linux_x86/src/CMakeFiles/addBinary.dir
+/home/parallels/Desktop/LeetCode/list_demo/build_linux_x86/src/CMakeFiles/edit_cache.dir

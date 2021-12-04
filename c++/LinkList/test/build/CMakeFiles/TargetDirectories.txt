@@ -1,0 +1,4 @@
+/home/parallels/Desktop/LeetCode/LinkList/test/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/LeetCode/LinkList/test/build/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/LeetCode/LinkList/test/build/CMakeFiles/test.dir
+/home/parallels/Desktop/LeetCode/LinkList/test/build/CMakeFiles/test1.dir

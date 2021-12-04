@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/test.dir/main.cpp.o  -o test  -L/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/test/../src -Wl,-rpath,/home/parallels/Desktop/LeetCode/BinaryTreePaths/build/test/../src ../src/libBTP.a 

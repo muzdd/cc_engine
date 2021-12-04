@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblinklist.a  CMakeFiles/linklist.dir/link_list.cpp.o
+/usr/bin/ranlib liblinklist.a

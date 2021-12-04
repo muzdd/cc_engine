@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/Desktop/LeetCode/LinkList/src/link_list.cpp
+stdlib.h
+-
+link_list.h
+/home/parallels/Desktop/LeetCode/LinkList/src/link_list.h
+
+/home/parallels/Desktop/LeetCode/LinkList/src/link_list.h
+iostream
+-
+cstring
+-
+

@@ -1,0 +1,3 @@
+/home/parallels/Desktop/LeetCode/LinkList/src/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/LeetCode/LinkList/src/build/CMakeFiles/linklist.dir
+/home/parallels/Desktop/LeetCode/LinkList/src/build/CMakeFiles/edit_cache.dir

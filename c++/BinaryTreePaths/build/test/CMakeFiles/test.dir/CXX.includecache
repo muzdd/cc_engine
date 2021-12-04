@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/BinaryTreePaths.h
+iostream
+-
+vector
+-
+
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/test/main.cpp
+BinaryTreePaths.h
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/test/BinaryTreePaths.h
+iostream
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/src/BinaryTreePaths.cpp
+iostream
+-
+sstream
+-
+BinaryTreePaths.h
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/src/BinaryTreePaths.h
+queue
+-
+string
+-
+
+/home/parallels/Desktop/LeetCode/BinaryTreePaths/src/BinaryTreePaths.h
+iostream
+-
+vector
+-
+

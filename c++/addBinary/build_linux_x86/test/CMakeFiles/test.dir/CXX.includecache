@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/addBinary.h
+iostream
+-
+cstring
+-
+
+/home/parallels/Desktop/LeetCode/addBinary/test/main.cpp
+addBinary.h
+/home/parallels/Desktop/LeetCode/addBinary/test/addBinary.h
+iostream
+-
+

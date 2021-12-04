@@ -1,0 +1,2 @@
+/usr/bin/ar qc libaddTwoNum.a  CMakeFiles/addTwoNum.dir/addTwoNumbers.cpp.o
+/usr/bin/ranlib libaddTwoNum.a
